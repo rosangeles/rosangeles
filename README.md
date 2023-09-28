@@ -1,7 +1,9 @@
-- 👋 Hi, I’m 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+## Boas vindas ao meu perfil 💙
+-
+  Meu nome é rosangeles Abache
+  
+-Estou estudando na alura
+- 💞
 - 📫 How to reach me ...
 
 <!---
